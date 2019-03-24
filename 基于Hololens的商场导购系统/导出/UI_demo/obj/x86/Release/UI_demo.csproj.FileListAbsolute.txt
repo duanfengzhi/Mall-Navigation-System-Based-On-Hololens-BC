@@ -1,0 +1,2 @@
+D:\dfz_Doc\Unity\UI_demo\新建文件夹\UI_demo\obj\x86\Release\UI_demo.csprojAssemblyReference.cache
+D:\dfz_Doc\Unity\UI_demo\新建文件夹\UI_demo\obj\x86\Release\UI_demo.csproj.CoreCompileInputs.cache
